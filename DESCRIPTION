@@ -1,6 +1,6 @@
 Package: educ6600
 Title: EDUC/PSY 6600 at Utah State University
-Version: 0.0.0.9000
+Version: 0.0.1
 Authors@R: person("Tyson", "Barrett", 
                   email = "t.barrett@aggiemail.usu.edu", 
                   role = c("aut", "cre"))

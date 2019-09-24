@@ -45,3 +45,9 @@ It contains the following data sets:
   - `data_memory`
   - `data_food`
   - `child_vars`
+  - `audience_wide`
+  - `textbook_wide`
+  - `memory_wide`
+  - `tasks_wide`
+  - `anograms_wide`
+  - `brain_wide`

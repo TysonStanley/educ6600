@@ -1,0 +1,25 @@
+Package: educ6600
+Title: EDUC/PSY 6600 at Utah State University
+Version: 0.0.0.9000
+Authors@R: person("Tyson", "Barrett", 
+                  email = "t.barrett@aggiemail.usu.edu", 
+                  role = c("aut", "cre"))
+Description: Functions and data sets useful for the EDUC/PSY 6600 course
+    at Utah State University.
+Depends: R (>= 2.10)
+Suggests: 
+    afex,
+    dplyr,
+    tidyr,
+    furniture,
+    car
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Imports: 
+    magrittr,
+    cli,
+    crayon,
+    rstudioapi,
+    tibble

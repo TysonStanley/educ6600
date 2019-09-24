@@ -1,6 +1,6 @@
 Package: educ6600
 Title: EDUC/PSY 6600 at Utah State University
-Version: 0.0.1
+Version: 0.0.2
 Authors@R: person("Tyson", "Barrett", 
                   email = "t.barrett@aggiemail.usu.edu", 
                   role = c("aut", "cre"))
@@ -12,7 +12,8 @@ Suggests:
     dplyr,
     tidyr,
     furniture,
-    car
+    car,
+    testthat
 License: GPL-3
 Encoding: UTF-8
 LazyData: true

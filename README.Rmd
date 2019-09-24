@@ -52,4 +52,9 @@ It contains the following data sets:
 - `tasks_wide`
 - `anograms_wide`
 - `brain_wide`
-
+- `coupleIQs`
+- `speed_voice`
+- `data_12b4`
+- `schizo_metal`
+- `woman_parents`
+- `react_wealth`
